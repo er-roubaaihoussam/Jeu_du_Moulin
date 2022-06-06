@@ -1,0 +1,20 @@
+                       __  __  ____  _    _ _      _____ _   _ 
+                      |  \/  |/ __ \| |  | | |    |_   _| \ | |
+                      | \  / | |  | | |  | | |      | | |  \| |
+                      | |\/| | |  | | |  | | |      | | | . ` |
+                      | |  | | |__| | |__| | |____ _| |_| |\  |
+                      |_|  |_|\____/ \____/|______|_____|_| \_|
+                                          
+                                                  
+                                    Regles du jeu:
+
+1-Le jeu commence avec un plateau vide entre deux joueurs Max et Min.
+2-Les joueurs placent a tour de role leurs pions(18 pions) sur un point libre du plateau.  
+3-Pendant la premiere phase, il est interdit de deplacer les pions deja places sur le plateau.
+4-Si un joueur forme un moulin, il retire un pion (en dehors d un moulin eventuel) a son adversaire.   
+5-Une fois tous les pions places (18 pions), chaque joueur deplace a tour de role un de ses pions sur
+un point adjacent libre d une meme ligne.    
+6-Le but est de faire des lignes de 3 pions de sa couleur pour enlever du plateau un pion de l adversaire
+qui ne fait pas partie d’un moulin (une ligne de 3 pions de son adversaire). 
+7-Des qu un joueur n a plus que trois pions sur le plateau, il deplace librement ses pions 
+(un par un et des qu il s agit de son tour de jeu) sur n importe quel point vide du plateau.                           
